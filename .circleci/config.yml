@@ -45,4 +45,4 @@ jobs:
           destination: junit-reports
 
       - store_test_results:
-          path: junit-results
+          path: junit-reports
